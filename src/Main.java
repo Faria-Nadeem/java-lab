@@ -3,22 +3,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args)
     {
-//       int no1 = 10;
-//       int no2 = 20;
-//       int no3 = 30;
-//       int sum = no1+no2+no3;
-//       System.out.println("sum is :"+sum);
-
       Scanner sc = new Scanner(System.in);
-//        System.out.print("Enter no 1: ");
-//        int a = sc.nextInt();
-//
-//        System.out.print("Enter no 2: ");
-//        int b = sc.nextInt();
-//
-//        int sum = a+b;
-//
-//        System.out.println("Sum of the two numbers is : "+sum);
+
         System.out.print("Enter total marks of subject no 1: ");
         marks1 = sc.nextInt();
 
